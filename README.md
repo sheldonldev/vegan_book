@@ -4,7 +4,7 @@
 
 ## Vegan Ingredient Database
 ## 纯素食材数据库
-
+### 营养成分表
     Ingredients{
 
       No.:        // the rule of numbering?
@@ -84,13 +84,13 @@
       }
     }
     
-## Introduction of nutrients    
-## 营养物质介绍
+### Introduction of nutrients    
+### 营养物质介绍
 
 
 
-## Human Body Needs Caculator
-## 个体营养需要量计算器
+### Human Body Needs Caculator
+### 营养需要量计算器
 
 
 
@@ -101,20 +101,32 @@
 
 ### Catering Calculator for Individuals
 ### 个人配餐计算器
-
-
+功能描述：
+input:
+output:
 
 ### Catering Calculator for Families
 ### 家庭配餐计算器
-
-
+功能描述：
+input:
+output:
 
 ### Catering Calculator for Restaurant 
 ### 餐厅配餐计算器
+功能描述：
+input:
+output:
 
-
-
+## Automatic Recipe GeneratGor
+## 自动食谱生成器
+功能描述：
+input:
+output:
 
 ## Dining Out Guide
-## 外出就餐指南
-    
+## 择店就餐指北针
+功能描述：
+
+### Vegan Recipe Map
+### 纯素菜单地图
+
