@@ -1,6 +1,7 @@
 # Vegan Book
 # 纯素食谱
 
+
 ## Vegan Ingredient Database
 ## 纯素食材数据库
 
@@ -10,7 +11,7 @@
       name:       // the rule of naming?
       type:       // the rule of classification?
 
-      introduction{         // the rule of parsing Wikipedia
+      introduction{         // the rule of parsing Wikipedia?
         origin:
         season:
       }
@@ -86,20 +87,33 @@
 ## Introduction of nutrients    
 ## 营养物质介绍
 
+
+
 ## Human Body Needs Caculator
 ## 个体营养需要量计算器
+
+
 
 ## Catering Calculator
 ## 配餐计算器
 
+
+
 ### Catering Calculator for Individuals
 ### 个人配餐计算器
+
+
 
 ### Catering Calculator for Families
 ### 家庭配餐计算器
 
+
+
 ### Catering Calculator for Restaurant 
 ### 餐厅配餐计算器
+
+
+
 
 ## Dining Out Guide
 ## 外出就餐指南
